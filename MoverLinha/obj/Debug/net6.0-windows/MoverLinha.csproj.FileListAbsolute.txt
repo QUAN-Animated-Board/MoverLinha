@@ -1,0 +1,17 @@
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.csproj.AssemblyReference.cache
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.Form1.resources
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.csproj.GenerateResource.cache
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.AssemblyInfoInputs.cache
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.AssemblyInfo.cs
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.csproj.CoreCompileInputs.cache
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\bin\Debug\net6.0-windows\MoverLinha.exe
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\bin\Debug\net6.0-windows\MoverLinha.deps.json
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\bin\Debug\net6.0-windows\MoverLinha.runtimeconfig.json
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\bin\Debug\net6.0-windows\MoverLinha.dll
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\bin\Debug\net6.0-windows\MoverLinha.pdb
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.dll
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\refint\MoverLinha.dll
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.pdb
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\MoverLinha.genruntimeconfig.cache
+C:\Users\Ayslan\source\repos\MoverLinha\MoverLinha\obj\Debug\net6.0-windows\ref\MoverLinha.dll
